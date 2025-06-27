@@ -52,5 +52,3 @@ Outputs help users quickly find important resource identifiers and connection de
 This setup is ideal for quickly spinning up a basic AWS environment for development, testing, or demonstration purposes.
 
 ---
-
-If you need a more detailed breakdown of the actual resources in `main.tf` or the specific outputs in `output.tf`, please provide their contents and I can expand this documentation further.
